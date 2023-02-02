@@ -1,0 +1,42 @@
+.container{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: 150px;
+    margin-bottom: 20px;
+    background-color: rgb(240, 238, 235);
+    border: 1px solid rgb(147, 118, 76);
+    border-radius: 10px;
+}
+.subavtr{
+    display: flex;
+    align-items: center;
+    margin-top: -9px;
+}
+.image{
+    height: 150px;
+    width: 220px;
+    border-radius: 10px;
+}
+.data{
+    margin-left: 30px;
+}
+.submited{
+    color: rgb(132, 132, 113);
+}
+.avatar{
+    height: 40px;
+    width: 40px;
+    margin-left: 10px;
+    border-radius: 50%;
+}
+.heading{
+    color: rgb(123, 125, 84);
+    font-weight: 900;
+    font-size: 15px;
+    height: 18px;
+}
+.describe{
+    margin-top: 30px;
+}
