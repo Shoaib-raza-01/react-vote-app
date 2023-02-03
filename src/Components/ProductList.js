@@ -1,5 +1,6 @@
 import React from 'react';
 import './ProductList.css';
+import img1 from '../image/img1.jpg'
 
 function ProductList(props) {
 
@@ -31,7 +32,7 @@ function ProductList(props) {
             </p>
             <div className ="subavtr">
               <p className ='submited'>Submitted By: </p>
-              <img src= {props.avatar} alt="Avatar_image" className='avatar'/>
+              <img src= {img1} alt="Avatar_image" className='avatar'/>
             </div>
         </div> 
     </div>
