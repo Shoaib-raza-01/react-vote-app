@@ -1,5 +1,7 @@
 ![website image](https://github.com/Shoaib-raza-01/react-vote-app/blob/master/src/image/web_img.png "image 1")
 
+this is how website looks
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
