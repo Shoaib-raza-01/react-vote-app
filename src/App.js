@@ -3,8 +3,14 @@ import Product from './Components/Product'
 
 function App() {
   return (
-    <div>
-      <h1>Produts List</h1>
+    <div style={{
+      backgroundColor : "#2e3234",
+    }}>
+      <h1 style={{
+        marginTop :"0px",
+        textAlign : "center",
+        color : "#d63e3e"
+      }}>PRODUCTS LIST</h1>
       <Product />
     </div>
   )
