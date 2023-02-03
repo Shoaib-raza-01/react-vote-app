@@ -40,6 +40,16 @@ const products = [
         submitterAvatarUrl: 'https://tse2.mm.bing.net/th?id=OIP.9TR1MpjGeOCnG9cwfOUDbwHaE7&pid=Api&P=0',
         productImageUrl: 'https://tse2.mm.bing.net/th?id=OIP.9TR1MpjGeOCnG9cwfOUDbwHaE7&pid=Api&P=0',
     },
+    {
+        id: 5,
+        title: 'white Audi',
+        description: 'On high demand sand castle construction expertise.',
+        url: '#',
+        // votes: generateVoteCount(),
+        votes : 60,
+        submitterAvatarUrl: 'https://tse2.mm.bing.net/th?id=OIP.7QRlRBFQuS9axG6hJQ7YfAHaEo&pid=Api&P=0',
+        productImageUrl: 'https://tse2.mm.bing.net/th?id=OIP.7QRlRBFQuS9axG6hJQ7YfAHaEo&pid=Api&P=0',
+    }
 ]    
 
 export default products;

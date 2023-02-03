@@ -1,4 +1,4 @@
-![website image](src\image\img1.jpg "image 1")
+![website image](https://github.com/Shoaib-raza-01/react-vote-app/blob/master/src/image/img1.jpg "image 1")
 
 # Getting Started with Create React App
 

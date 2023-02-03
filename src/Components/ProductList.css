@@ -2,10 +2,10 @@
     display: flex;
     margin-left: auto;
     margin-right: auto;
-    width: 70%;
-    height: 150px;
+    width: 80%;
+    height: 170px;
     margin-bottom: 20px;
-    background-color: rgb(240, 238, 235);
+    background-color: "#3d4041";
     border: 1px solid rgb(147, 118, 76);
     border-radius: 10px;
 }
@@ -15,6 +15,8 @@
     margin-top: -9px;
 }
 .image{
+    margin-top: 10px;
+    margin-left: 10px;
     height: 150px;
     width: 220px;
     border-radius: 10px;
@@ -32,11 +34,12 @@
     border-radius: 50%;
 }
 .heading{
-    color: rgb(123, 125, 84);
+    color: rgb(179, 137, 79);;
     font-weight: 900;
     font-size: 15px;
     height: 18px;
 }
 .describe{
     margin-top: 30px;
+    color: tan;
 }
